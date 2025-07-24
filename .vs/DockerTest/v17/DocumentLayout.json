@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Antoine\\source\\repos\\DockerTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB7205D-8562-4778-A58B-2BD66924F596}|DockerTest\\DockerTest.csproj|c:\\users\\antoine\\source\\repos\\dockertest\\dockertest\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0AB7205D-8562-4778-A58B-2BD66924F596}|DockerTest\\DockerTest.csproj|solutionrelative:dockertest\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB7205D-8562-4778-A58B-2BD66924F596}|DockerTest\\DockerTest.csproj|c:\\users\\antoine\\source\\repos\\dockertest\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{0AB7205D-8562-4778-A58B-2BD66924F596}|DockerTest\\DockerTest.csproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Antoine\\source\\repos\\DockerTest\\DockerTest\\Dockerfile",
+              "RelativeDocumentMoniker": "DockerTest\\Dockerfile",
+              "ToolTip": "C:\\Users\\Antoine\\source\\repos\\DockerTest\\DockerTest\\Dockerfile",
+              "RelativeToolTip": "DockerTest\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-24T14:28:10.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\Antoine\\source\\repos\\DockerTest\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Users\\Antoine\\source\\repos\\DockerTest\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-24T14:28:09.363Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
